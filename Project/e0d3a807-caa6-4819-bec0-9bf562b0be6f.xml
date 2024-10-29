@@ -1,2 +1,3 @@
 ﻿{"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"}],"Ix":1,"Name":"Get1sClk","Out":[{"__type":"PF","Arg":""}]},{"__type":"ST","Var":"Flag_1Hz","X":1}],"LRI":2,"RRI":3,"VLs":[]}
 {"CLs":[{"__type":"LD","Var":"Flag_1Hz"},{"__type":"ST","Ix":1,"Var":"Dumb","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Not":true,"Var":"Flag_1Hz"},{"__type":"ST","Ix":1,"Var":"Dumb","X":1}],"LRI":2,"RRI":3,"VLs":[]}
