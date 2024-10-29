@@ -1,0 +1,4 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=BOOL	N=Flag_1Hz	G=VAR_GLOBAL	Com=Mon beau flag
