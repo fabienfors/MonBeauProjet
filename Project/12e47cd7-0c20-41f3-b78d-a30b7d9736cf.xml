@@ -3,4 +3,6 @@ _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=Dumb	G=VAR
 ++D=REAL	N=MyVar	G=VAR
+++D=REAL	N=ValCos	G=VAR
+++D=REAL	N=ValSin	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
