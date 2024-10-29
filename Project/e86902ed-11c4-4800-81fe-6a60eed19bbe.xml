@@ -1,0 +1,1 @@
+﻿{"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In","Type":"ANY_REAL","Var":"MyVar"}],"Ix":2,"Name":"COS","Out":[{"__type":"PF","Arg":"ENO"},{"__type":"PRM","Arg":"","Ix":1,"Type":"ANY_REAL","Var":"ValCos"}]}],"LRI":3,"RRI":4,"VLs":[]}
